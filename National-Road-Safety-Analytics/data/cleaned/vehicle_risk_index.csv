@@ -1,0 +1,8 @@
+vehicle_type_involved,total_accidents,total_casualties,risk_score
+Auto-Rickshaw,449,2304,5.13
+Bus,442,2266,5.13
+Car,393,2046,5.21
+Cycle,421,2091,4.97
+Pedestrian,419,2089,4.99
+Truck,449,2262,5.04
+Two-Wheeler,427,2140,5.01
