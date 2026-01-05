@@ -22,4 +22,5 @@ Python (Pandas, SciPy, Prophet), Power BI, Government of India Datasets
 6. Policy Action & Funding Priority Panel  
 
 ## Impact
-Identifies high-risk states, major loss drivers and predicts future accident trends to support proactive government policy planning.
+Identifies high-risk states, major loss drivers and predicts future accident trends to support proactive government policy planning. It can get very imapactfull for government to analyse.
+
