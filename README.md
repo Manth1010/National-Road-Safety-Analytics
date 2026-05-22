@@ -1,4 +1,4 @@
-# National Road Safety & Accident Cost Intelligence System 🇮🇳
+# National Road Safety & Accident Cost Intelligence System
 
 A government-grade analytics platform built using official Indian road accident datasets to analyze accident risk zones, economic loss and forecast future accident trends.
 
