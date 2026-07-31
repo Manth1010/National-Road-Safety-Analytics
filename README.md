@@ -19,7 +19,7 @@ Python (Pandas, SciPy, Prophet), Power BI, Government of India Datasets
 3. Economic Loss Analytics  
 4. Vehicle Risk Intelligence  
 5. Trend & Forecast Panel  
-6. Policy Action & Funding Priority Panel  
+6. Policy Action & Funding Priority Panel
 
 ## Impact
-Identifies high-risk states, major loss drivers and predicts future accident trends to support proactive government policy planning.
+Identifies high-risk states, major loss drivers and predicts future accident trends to support proactive government policy planning
